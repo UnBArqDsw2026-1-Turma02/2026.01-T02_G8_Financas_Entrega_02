@@ -57,17 +57,17 @@ Abaixo estão alguns rascunhos produzidos ao criar os artefatos da segunda entre
 
 <div align="center">
 
-![screenshot1](./Base/DesignSprint/assets/screenshot2.png) 
+![screenshot1](Modelagem/assets/screenshot2.jpeg) 
 
-<b>Imagem 1:</b> Miro Board
+<b>Imagem 1:</b> Diagrama de Sequencia
 
 </div>
 
 <div align="center">
 
-![screenshot2](./Base/DesignSprint/assets/screenshot1.png) 
+![screenshot2](Modelagem/assets/screenshot.jpeg) 
 
-<b>Imagem 2:</b> Figma Board
+<b>Imagem 2:</b> Diagrama de Componentes
 
 </div>
 
